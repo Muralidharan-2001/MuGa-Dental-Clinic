@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muralidharan-2001.github.io/MuGa-Dental-Clinic/sitemap.xml
